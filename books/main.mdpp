@@ -1,0 +1,35 @@
+!INCLUDE "../snippets/title.md"
+
+!TOC
+
+!INCLUDE "../snippets/Intro1.md"
+!INCLUDE "../snippets/bio_and_social.md"
+!INCLUDE "../snippets/InfoBio.md"
+!INCLUDE "../snippets/MoreComplexMoreInfo.md"
+
+## Economics
+
+!INCLUDE "../snippets/Money1.md"
+!INCLUDE "../snippets/Money2.md"
+!INCLUDE "../snippets/TradeMoney.md"
+!INCLUDE "../snippets/Competition.md"
+!INCLUDE "../snippets/NoSocialism.md"
+!INCLUDE "../snippets/Savings-Hayek.md"
+!INCLUDE "../snippets/keynes.md"
+!INCLUDE "../snippets/morals.md"
+!INCLUDE "../snippets/Government.md"
+!INCLUDE "../snippets/regulations.md"
+!INCLUDE "../snippets/patents.md"
+!INCLUDE "../snippets/immigration.md"
+
+## Hayekian Cultural Evolution
+
+!INCLUDE "../snippets/hayekian.md"
+!INCLUDE "../snippets/private-governance.md"
+!INCLUDE "../snippets/short-antisemitism.md"
+!INCLUDE "../snippets/militarism.md"
+!INCLUDE "../snippets/nutrition.md"
+
+!INCLUDE "../snippets/microchips-not-peace.md"
+!INCLUDE "../snippets/final-disaster.md"
+!INCLUDE "../snippets/conclusion.md"
