@@ -1,0 +1,4 @@
+Imagine you had a time machine and went back to Rome circa 100 A.D. and told people that the world could function much better if there was no slavery and women had the same rights as men. 
+
+During the early days in the lead-up to World War I there was an atmosphere of joy and excitement as thousands of young men celebrated the coming war which would bring unity, purpose, and glory. After the war, when much of Europe lay in ruins and nearly 20 million lives lost, people were numb and in a state of stupor, wondering how they could have fooled themselves into such needless carnage. Today, a little over 100 years later, you'd have a hard time finding anyone who knows
+The shutdown of the world economy and resulting socioeconomic chaos brought about by the Coronavirus 
