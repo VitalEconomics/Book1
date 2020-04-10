@@ -9,8 +9,9 @@
 
 ## Economics
 
+!INCLUDE "../snippets/production-consumption.md"
 !INCLUDE "../snippets/Money1.md"
-!INCLUDE "../snippets/Money2.md"
+
 !INCLUDE "../snippets/TradeMoney.md"
 !INCLUDE "../snippets/Competition.md"
 !INCLUDE "../snippets/NoSocialism.md"
