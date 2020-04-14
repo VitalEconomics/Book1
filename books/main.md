@@ -9,8 +9,9 @@
 	title="Mises Quote" width="750" height="450" />
     
 
+## Preface
 
-1\.  [Introduction: Without Mises and Hayek mankind drifts towards extinction](#introduction:withoutmisesandhayekmankinddriftstowardsextinction)  
+This is an Open Source book which anyone can contribute to by going to our github repo1\.  [Introduction: Without Mises and Hayek mankind drifts towards extinction](#introduction:withoutmisesandhayekmankinddriftstowardsextinction)  
 2\.  [Biological and Social Order](#biologicalandsocialorder)  
 3\.  [Creation and Spread of Information via Biological Evolution](#creationandspreadofinformationviabiologicalevolution)  
 4\.  [More complexity requires more information](#morecomplexityrequiresmoreinformation)  
