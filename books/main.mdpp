@@ -1,5 +1,9 @@
 !INCLUDE "../snippets/title.md"
+
 !INCLUDE "../snippets/preface.md"
+
+## Table of Contents
+
 !TOC
 
 !INCLUDE "../snippets/Intro3NoSpencer.md"

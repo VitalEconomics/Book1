@@ -9,9 +9,13 @@
 	title="Mises Quote" width="750" height="450" />
     
 
+
 ## Preface
 
 This is an Open Source book which anyone can contribute to by going to our github site at 
+
+
+## Table of Contents
 
 1\.  [Introduction: Without Mises and Hayek mankind drifts towards extinction](#introduction:withoutmisesandhayekmankinddriftstowardsextinction)  
 2\.  [Biological and Social Order](#biologicalandsocialorder)  
