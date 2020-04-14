@@ -1,8 +1,8 @@
 !INCLUDE "../snippets/title.md"
-
+!INCLUDE "../snippets/preface.md"
 !TOC
 
-!INCLUDE "../snippets/Intro1.md"
+!INCLUDE "../snippets/Intro3NoSpencer.md"
 !INCLUDE "../snippets/bio_and_social.md"
 !INCLUDE "../snippets/InfoBio.md"
 !INCLUDE "../snippets/MoreComplexMoreInfo.md"
