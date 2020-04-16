@@ -2,18 +2,16 @@
 
 !INCLUDE "../snippets/preface.md"
 
-## Table of Contents
-
-!TOC
-
 !INCLUDE "../snippets/Intro4.md"
 !INCLUDE "../snippets/bio_and_social.md"
 !INCLUDE "../snippets/InfoBio.md"
 !INCLUDE "../snippets/MoreComplexMoreInfo.md"
 
+
 ## Economics
 
 !INCLUDE "../snippets/production-consumption.md"
+
 !INCLUDE "../snippets/Money1.md"
 
 !INCLUDE "../snippets/TradeMoney.md"
