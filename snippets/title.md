@@ -1,6 +1,6 @@
 
 
-# Extinction by Economic Ignorance: Mises and Hayek or Bust [Coronavirus ed.]
+# Mises and Hayek or Bust: Avoiding Extinction by Economic Ignorance [Coronavirus ed.]
 
 <img src="../images/hayek_quote.jpeg" alt="Hayek Quote"
 	title="Hayek Quote" width="750" height="300" />

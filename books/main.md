@@ -1,6 +1,6 @@
 
 
-# Extinction by Economic Ignorance: Mises and Hayek or Bust [Coronavirus ed.]
+# Mises and Hayek or Bust: Avoiding Extinction by Economic Ignorance [Coronavirus ed.]
 
 <img src="../images/hayek_quote.jpeg" alt="Hayek Quote"
 	title="Hayek Quote" width="750" height="300" />
@@ -17,6 +17,7 @@ This is an Open Source book which anyone can contribute to by going to our githu
 Visit www.econogospel.com,  facebook.com/econogospel/
 
 This work is licensed under a Creative Commons Attribution 4.0 International License
+
 https://creativecommons.org/licenses/by/4.0/
 
 Version 0.81
