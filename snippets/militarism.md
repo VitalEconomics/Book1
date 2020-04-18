@@ -34,7 +34,7 @@ He tells us his strategy:
 >“All that we have to do is to send two mujahedeen to the furthest point east to raise a piece of cloth on which is written al Qaeda, in order to make generals race there to cause America to suffer human, economic and political losses without their achieving anything of note other than some benefits for their private corporations,”
 >“Every dollar of al Qaeda defeated a million dollars, by the permission of Allah, besides the loss of a huge number of jobs,”
 >“As for the economic deficit, it has reached record astronomical numbers estimated to total more than a trillion dollars.”
->“And it all shows that the real loser is you,”…“It is the American people and their economy.” — CNN
+>“And it all shows that the real loser is you,”…“It is the [American people and their economy.”](https://www.cnn.com/2004/WORLD/meast/11/01/binladen.tape/)
  
 
 At the center of all this tribalistic warmongering lies the Israeli(Zionism)/Palestinian conflict which is like a knife stuck in mankind's thigh which constantly radiates naïve religious/mystical good vs. evil thinking, segregating the slightly smarter apes likewise and will lead to the final world war if not remedied very very very very soon. 
@@ -57,7 +57,7 @@ Mises, being a Jewish intellectual and Socialism's greatest intellectual opponen
 
 Hitler's treatment of Jews; Yigal Amir's killing of Israeli Prime Minister Yitzhak Rabin; millions falling for the usual "antisemitic tropes"; Israeli Prime Minister Menachem Begin mentioning that "From a Jewish perspective there is not one German who is not a Nazi, and there is not one German who is not a murderer"; a Palestinian blowing himself up killing Jewish women and children; on Oct 16th, 2010 Rabbi Ovadia Yosef, founder and spiritual leader of the largest religious political party in Israel(Shas) which won 11 of 120 Knesset seats in the 2009 elections, and is also a former Sephardi Chief Rabbi of Israel which can be seen as the sort of Pope of the Sephardic Jews, said in a sermon that:
 
-“Goyim[non-Jews] were born only to serve us. Without that, they have no place in the world – only to serve the People of Israel,"...“Why are gentiles needed? They will work, they will plow, they will reap. We will sit like an effendi and eat. That is why gentiles were created,”
+“Goyim[non-Jews] were born only to serve us. Without that, they have no place in the world – only to serve the People of Israel,"...“Why are gentiles needed? They will work, they will plow, they will reap. We will sit like an effendi and eat. That is why [gentiles were created,”](https://www.haaretz.com/jewish/1.5128226)
 
 His funeral was attended by over 800,000 adoring Jews in Jerusalem... These are all understandable intellectual errors mostly rooted in economic ignorance and the evolved nature/instincts of the slightly smarter apes.
 
