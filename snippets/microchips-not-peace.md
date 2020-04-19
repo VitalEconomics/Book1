@@ -1,8 +1,8 @@
 ### The slightly smarter apes and their "experts" like Einstein and Lenin destroy Spencer's 'Social Organism' 
 
-We are now at a point where we can fully understand how our problems stem from the fact that 'the market process' and all the wonderful mechanisms it is composed of like profit/loss calculation, prices, trade and resulting division of labor and information, interest rates, economic competition, etc. and how these things coordinate the social organism are "indeed the result of human action, but not the execution of any human design" and were design not so much by our reason, but by "processes of selective evolution" primarily via the aforementioned hayekian cultural evolution.
+We are now at a point where we can fully understand how our problems stem from the fact that 'the market process' and all the wonderful mechanisms it is composed of are "indeed the result of human action, but not the execution of any human design" and were design not so much by our reason, but by "processes of selective evolution" primarily via the aforementioned hayekian cultural evolution.
 
- Hayek answers:
+Hayek explains:
 
 >"We have never designed our economic system. We were not intelligent enough for that. We have stumbled into it and it has carried us to unforeseen heights and given rise to ambitions which may yet lead us to destroy it." [(Hayek F. A., 1981, p. 164)](https://books.google.com/books?id=9IpEBAAAQBAJ&pg=PA496&lpg=PA496&dq=%22We+have+never+designed+our+economic+system.+We+were+not+intelligent+enough+for+that.%22&source=bl&ots=unmrkCWHht&sig=ACfU3U3LTxMBTWY7xlzDtCXk_33E3TM_mQ&hl=en&sa=X&ved=2ahUKEwjK8IzPs-7mAhUJvp4KHdyOB8UQ6AEwAHoECAgQAQ#v=onepage&q=%22We%20have%20never%20designed%20our%20economic%20system.%20We%20were%20not%20intelligent%20enough%20for%20that.%22&f=false)
 
