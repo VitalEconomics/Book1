@@ -21,3 +21,4 @@ So the erroneous belief that real savings/wealth can be “printed” to then �
 How can getting millions of people to consume/wear-down existing wealth to produce weapons which are then used to destroy fellow human beings and their property be anything other than an obvious reduction in life/wealth/order? Krugman's statement is the perfect example of what Mises once told students: 
 
 >"Don't be afraid to speak up. Remember, whatever you say about the subject and however wrong it might be, the same thing has already been said by some eminent [economist."](http://www.libertarianpress.com/rothbard/essential/toc.htm)
+

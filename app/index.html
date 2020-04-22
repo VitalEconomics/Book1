@@ -1,0 +1,28 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="utf 8">
+    <title>Guru99</title>     
+</head>  
+<body ng-app="app">
+<h1 ng-controller="HelloWorldCtrl">{{message}}</h1>
+
+{{info}}
+
+
+<script src="https://code.angularjs.org/1.6.9/angular.js"></script>
+<script>  
+    angular.module("app", []).controller("HelloWorldCtrl", function($scope, $http) {  
+    $scope.message="Hello World" ;
+    $http.get('https://covid19-api.weedmark.systems/api/v1/stats?country=USA').then(
+
+        function(response) {
+            $scope.info = response.data;
+        });
+
+    
+     } );
+</script> 
+
+</body>  
+</html>
