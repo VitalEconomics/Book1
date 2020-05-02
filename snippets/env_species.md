@@ -8,7 +8,15 @@ It can be easy to relate to people who love insects and grasses almost as much a
 
 We really shouldn’t get too worked up over species dying. Every time a species dies you are giving a helping hand to whatever that species ate. Many times all that happens is that the balance of life/order changes, that’s all. Besides, if we slow down the progress of mankind we will be denying the right of the many species that have adapted to leeching off of us to continue their evolution. By preventing the further expansion of human beings we are also preventing the further evolution of things like roaches and the various diseases that pray on us. What about their rights and intrinsic value?
 
-The intellectual fallacies which shape the environmentalist movement are in some ways far more dangerous than Socialism/Communism. Lenin, Stalin and Mao, as wrong and as brutal as they might have been, at least strived towards some socialist utopia where human beings would flourish. But for many in the environmentalist movement, who see human flourishing as more of a destructive cancer to life on this planet and thus something to be prevented, ultimately the death of billions and the prevention of future human life becomes their goal and this mindset will eventually bubble up to politicians that will go along with some disastrous human-depopulation scheme, or easily conclude that some seemingly inevitable world war might be good because it would lower human population/etc. Let’s read what a few [leading environmentalists have said](https://www.lewrockwell.com/2008/10/eric-englund/environmentalism-is-racism/):
+The intellectual fallacies which shape the environmentalist movement are in some ways far more dangerous than Socialism/Communism. Lenin, Stalin and Mao, as wrong and as brutal as they might have been, at least strived towards some socialist utopia where human beings would flourish. But for many in the environmentalist movement, who see human flourishing as more of a destructive cancer to life on this planet and thus something to be prevented, ultimately the death of billions and the prevention of future human life becomes their goal and this mindset will eventually bubble up to politicians that will go along with some disastrous human-depopulation scheme, or easily conclude that some seemingly inevitable world war might be good because it would lower human population/etc. 
+
+The overpopulation myth is one the economically ignorant apes can easily, and as we are seeing, inevitably fall for but it is a "myth" nonetheless. The higher the population, the smarter and more productive the social organism becomes, which makes it easier to both learn and shape/adapt the environment/planet as the need might arise. However, as already mentioned, this "social learning" requires privatization to allow the billions of brains to discover and properly act and morph itself in a profitable way, again, a manner that coordinates the actions of billions of people in a way that is environmentally harmonious and keeps growing/nourishing/improving the social order, something the usual 
+
+
+Unfortunately to our "experts" and future "central planners" mankind is not an incredible super-computer/organism, it is some mob of slightly smarter apes to be guided by the well-intentioned "experts" and "central planners" like Bill Gates.  
+
+
+Let’s read what a few [leading environmentalists have said](https://www.lewrockwell.com/2008/10/eric-englund/environmentalism-is-racism/):
 
 Jacques-Yves Cousteau, environmentalist and documentary maker: "It’s terrible to have to say this. World population must be stabilized, and to do that we must eliminate 350,000 people per day. This is so horrible to contemplate that we shouldn’t even say it. But the general situation in which we are involved is lamentable."
 
@@ -33,6 +41,9 @@ Maurice Strong, U.N. environmental leader: "Isn't the only hope for the planet t
 Ted Turner, CNN founder, UN supporter, and environmentalist: "A total population of 250–300 million people, a 95% decline from present levels, would be ideal."
 
 Paul Watson, a founder of Greenpeace: "I got the impression that instead of going out to shoot birds, I should go out and shoot the kids who shoot birds."
+
+Bill Gates "The world today has 6.8 billion people. That's headed up to about nine billion...we could lower that by perhaps [ten or 15 percent."](https://youtu.be/c4Aps2NPe54?t=1047)
+
 
 Not a single one of these “experts” has the slightest clue of what the market process is and how it works, which means that they don’t really understand natural selection(although I’m sure all of them think they are experts at it!). Economic education can easily make them fall in love with the marvels of the market process and thus fix their errors. 
 
