@@ -1,0 +1,3 @@
+# How to Get Everyone Working Again
+
+So how do we get the 30+ million people who have lost their jobs back to work? This is easy to do if we really understand the problem we are trying to solve. What we need to do is order the millions of unemployed in the most productive way. What were their lives before losing their job? Well, most were part of a profitable order, in other words, they were part of a social order that produced more wealth than it consumed. 
