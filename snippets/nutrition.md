@@ -50,7 +50,7 @@ A final and perhaps best example showing how our mainstream economics establishm
 
 Reflecting on being invited to give the speech and his experience talking to FED officials Wenzel wrote:
 
-"Overall, I was simply amazed at the lack of knowledge of these economists about the Austrian School. It was very close to nonexistent....My experience at the Fed points out the importance of intellectual debate and study. Clearly, the economists whom I met at the Fed were brought up in an intellectual tunnel, where they had no exposure to Austrian economic theory. They read and study within a limited range of writers. But they [were very curious about my view.](https://mises.org/library/new-york-fed-leave-building)
+>"Overall, I was simply amazed at the lack of knowledge of these economists about the Austrian School. It was very close to nonexistent....My experience at the Fed points out the importance of intellectual debate and study. Clearly, the economists whom I met at the Fed were brought up in an intellectual tunnel, where they had no exposure to Austrian economic theory. They read and study within a limited range of writers. But they [were very curious about my view.](https://mises.org/library/new-york-fed-leave-building)
 
 The so-called military-industrial-complex is the same way where you have plenty of good vs. evil thinkers who genuinely believe we need to protect ourselves against the evildoers, but also plenty of armaments industry CEOs/salesman just looking to purposely exaggerate or even create threats to make a buck.
 
