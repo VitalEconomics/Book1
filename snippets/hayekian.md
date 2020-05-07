@@ -3,6 +3,6 @@
 !INCLUDE "cultural-not-biological.md"
 !INCLUDE "cultural-left-right.md"
 !INCLUDE "minorities.md"
-!INCLUDE "war-on-drugs.md"
+!INCLUDE "war-on-drugs3.md"
 !INCLUDE "cultural-deep-hayek.md"
 
