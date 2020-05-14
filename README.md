@@ -1,7 +1,10 @@
-# Book
+# Open Source Project for Quick and Collaborative Creation of Economic Education Books/Articles
 
+This repo is a collection of short markdown files that can be small articles or sections of articles which can then be combined to create larger articles or entire books.
 
-Open Source book explaining how the world works based on the ideas mostly associated with free-market economists Ludwig von Mises and 1974 Nobel Laureate in Economics F.A. Hayek with additional content dealing with Coronavirus. Kindle version updated every week or two.
+Books in progress are:
+
+1. 
 
 Current versions in <a href="./books/Book.pdf" target="_blank">PDF</a> in <a href="./books/main.md" target="_blank">markdown</a> and <a href="./books/main.html" target="_blank">html</a>
 
