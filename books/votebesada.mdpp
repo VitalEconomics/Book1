@@ -1,3 +1,5 @@
+!INCLUDE "../snippets/vb_preface.md"
+
 !INCLUDE "../snippets/vb_intro.md"
 
 !INCLUDE "../snippets/production-consumption.md"
