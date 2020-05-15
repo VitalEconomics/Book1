@@ -1,6 +1,17 @@
+
+# Teaching Economics is a Moral Duty: Why I'm Running for US Congress
+
 !INCLUDE "../snippets/vb_preface.md"
 
 !INCLUDE "../snippets/vb_intro.md"
+
+## Economics 
+
+!INCLUDE "../snippets/bio_and_social.md"
+
+!INCLUDE "../snippets/InfoBio.md"
+
+!INCLUDE "../snippets/MoreComplexMoreInfo.md"
 
 !INCLUDE "../snippets/production-consumption.md"
 
@@ -18,6 +29,17 @@
 
 !INCLUDE "../snippets/Government.md"
 
+!INCLUDE "../snippets/Savings-Hayek.md"
+
+!INCLUDE "../snippets/keynes.md"
+
 !INCLUDE "../snippets/immigration.md"
+
+## The Environment
+
+!INCLUDE "../snippets/env_pollution.md"
+
+!INCLUDE "../snippets/env_species.md"
+
 
 !INCLUDE "../snippets/vb_conclusion.md"
