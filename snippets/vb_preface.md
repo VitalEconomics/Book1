@@ -14,3 +14,5 @@ https://creativecommons.org/licenses/by/4.0/
 
 Version 0.91
 
+Cover photo taken at 1974 Nobel Laureate in Economics F.A. Hayek's final resting place in Vienna, Austria
+
