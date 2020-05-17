@@ -36,6 +36,8 @@
 
 !INCLUDE "../snippets/immigration.md"
 
+!INCLUDE "../snippets/vb_hayekian.md"
+
 ## The Environment
 
 !INCLUDE "../snippets/env_pollution.md"

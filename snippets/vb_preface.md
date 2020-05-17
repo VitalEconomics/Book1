@@ -9,6 +9,8 @@ I was born in Cuba, one of the few countries still under the spell of the fallac
 
 This is an Open Source book which anyone can contribute to by going to its github repository at https://github.com/VitalEconomics/Book1 and gets updated frequently.
 
+
+
 Please like and share https://www.facebook.com/votebesada/
 
 Visit https://votebesada.com
