@@ -6,7 +6,7 @@ Books in progress are:
 
 1. 
 
-Current versions in <a href="./books/Book.pdf" target="_blank">PDF</a> in <a href="./books/main.md" target="_blank">markdown</a> and <a href="./books/main.html" target="_blank">html</a>
+Current versions in <a href="https://github.com/VitalEconomics/Book1/raw/master/books/votebesada.epub" target="_blank">epub</a> in <a href="https://github.com/VitalEconomics/Book1/blob/master/books/votebesada.md" target="_blank">markdown(sorry no TOC)</a>
 
 
 To contribute and "assemble" the books you need the following.
