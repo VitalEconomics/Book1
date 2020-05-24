@@ -1,6 +1,9 @@
 
 # Why I'm Voting For Jo Jorgensen: The First Female and Economically Woke President of the United States
 
+<img src="../images/jojo.jpg" alt="Jo Jorgensen"
+	title="Jo Jorgensen" width="550" height="600" />
+
 
 ### Preface 
 
