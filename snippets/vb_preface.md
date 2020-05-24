@@ -18,7 +18,7 @@ Visit https://votebesada.com
 This work is licensed under a Creative Commons Attribution 4.0 International License
 https://creativecommons.org/licenses/by/4.0/
 
-Version 0.91
+Version 0.92
 
 Cover photo taken at 1974 Nobel Laureate in Economics F.A. Hayek's final resting place in Vienna, Austria
 
