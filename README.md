@@ -2,11 +2,11 @@
 
 This repo is a collection of short markdown files that can be small articles or sections of articles which can then be combined to create larger articles or entire books.
 
-Books in progress are:
+Books in progress are (branch):
 
-1. Why I'm Voting For Jo Jorgensen: The First Female and Economically Woke President of the United States
-2. The Primary Civic Duty: Economics for Citizens
-3. Mises and Hayek or Bust: Avoiding Extinction by Economic Ignorance [Coronavirus ed.]
+1. Why I'm Voting For Jo Jorgensen: The First Female and Economically Woke President of the United States (jojo)
+2. The Primary Civic Duty: Economics for Citizens (master)
+3. Mises and Hayek or Bust: Avoiding Extinction by Economic Ignorance [Coronavirus ed.] (master)
 
 
 epub versions of books can be found in /books directory
