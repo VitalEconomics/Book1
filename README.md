@@ -4,10 +4,12 @@ This repo is a collection of short markdown files that can be small articles or 
 
 Books in progress are:
 
-1. 
+1. Why I'm Voting For Jo Jorgensen: The First Female and Economically Woke President of the United States
+2. The Primary Civic Duty: Economics for Citizens
+3. Mises and Hayek or Bust: Avoiding Extinction by Economic Ignorance [Coronavirus ed.]
 
-Current versions in <a href="https://github.com/VitalEconomics/Book1/raw/master/books/votebesada.epub" target="_blank">epub</a> in <a href="https://github.com/VitalEconomics/Book1/blob/master/books/votebesada.md" target="_blank">markdown(sorry no TOC)</a>
 
+epub versions of books can be found in /books directory
 
 To contribute and "assemble" the books you need the following.
 
