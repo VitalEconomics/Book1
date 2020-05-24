@@ -46,7 +46,7 @@ This is why I am voting to make Jo Jorgensen the first female president of the U
 
 About Jo:
 
-Jo was the vice-presidential pick of the great free-market educator Harry Browne in his 1996 presidential campaign. [from wikipedia] Jorgensen received a BS in Psychology at Baylor University in 1979 followed by a Master's in Business Administration from Southern Methodist University in 1980. She began her career at IBM working with computer systems, leaving there to become part owner and President of Digitech, Inc. She received a Ph.D. in Industrial and Organizational Psychology from Clemson University in 2002. Jorgensen is a Psychology Senior Lecturer at Clemson University.
+Jo was the vice-presidential pick of the great free-market educator Harry Browne in his 1996 presidential campaign. [from wikipedia](https://en.wikipedia.org/wiki/Jo_Jorgensen) Jorgensen received a BS in Psychology at Baylor University in 1979 followed by a Master's in Business Administration from Southern Methodist University in 1980. She began her career at IBM working with computer systems, leaving there to become part owner and President of Digitech, Inc. She received a Ph.D. in Industrial and Organizational Psychology from Clemson University in 2002. Jorgensen is a Psychology Senior Lecturer at Clemson University.
 ## Economics 
 
 
