@@ -50,8 +50,3 @@ The very last 3 sentences from "Human Action" stress that:
 
 >"The body of economic knowledge is an essential element in the structure of human civilization; it is the foundation upon which modern industrialism and all the moral, intellectual, technological, and therapeutical achievements of the last centuries have been built. It rests with men whether they will make the proper use of the rich treasure with which this knowledge provides them or whether they will leave it unused. But if they fail to take the best advantage of it and disregard its teachings and warnings, they will not annul economics; they will stamp out society and the [human race."](https://mises.org/library/human-action-0/html/pp/936)
 
-
-Please like and share https://www.facebook.com/votebesada/
-Visit https://votebesada.com
-Write a review on Amazon.com
-
