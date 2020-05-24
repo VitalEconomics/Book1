@@ -1,32 +1,25 @@
 
-# The Primary Civic Duty: Economics for Citizens 
+# Why I'm Voting For Jo Jorgensen: The First Female and Economically Woke President of the United States
+
 
 ### Preface 
 
 
-I am running for US House of Representatives in Washington State’s Congressional District #9 as a member of the [Libertarian Party](https://www.lp.org/issues/) The purpose of my campaign is to spread an understanding of economics to as many people as possible.
+This book is NOT associated with the official Jo Jorgensen campaign. It is just a book put together by supporters and inadvertently by anyone who contributes to the Open Source project whose writings are published collectively as authored by Freemarketeers.
 
-
-I was born in Cuba, one of the few countries still under the spell of the fallacious and economically disastrous ideology of Communism. I came to Miami (Cuba 2.0) when I was 11 where I also got my degree in Computer Science at FIU. I now reside in Washington State where I work as a contractor for Microsoft. 
-
-
-This is an Open Source book which anyone can contribute to by going to its github repository at https://github.com/VitalEconomics/Book1 and gets updated frequently.
-
-
-
-Please like and share https://www.facebook.com/votebesada/
-
-Visit https://votebesada.com
+Anyone can contribute to it by going to its github repository at https://github.com/VitalEconomics/Book1 and gets updated frequently.
 
 This work is licensed under a Creative Commons Attribution 4.0 International License
 https://creativecommons.org/licenses/by/4.0/
 
-Version 0.93
+Version 1.0
 
-Cover photo taken at 1974 Nobel Laureate in Economics F.A. Hayek's final resting place in Vienna, Austria
+Please visit https://joj2020.com/
+
+Cover photo from https://en.wikipedia.org/wiki/Jo_Jorgensen
 
 
-### Introduction: Lessons from WWI and Why I'm Running for Congress 
+### Introduction: Lessons from WWI and Why I'm Voting for Jo Jorgensen
 
 In August 10, 1915, British physicist Henry Mosely, who would have probably won the Nobel Prize that year, died in perhaps the most disastrous error mankind has thus far made, The First World War (1914–18). Bright and pious German/French/British/Russian… students, fathers, engineers, "great minds" and "experts", who even shared a common European Christian faith, reverted to their tribal ape-like nature, and for God, honor, flag and country, slaughtered each other leading to about 18 million deaths. At 7:30 am July 1st, 1916 the 'Battle of the Somme' began. On this single day, just the British alone, had about 20,000 fatalities and 35,000 wounded. On that day a British soldier was either killed or wounded on average every second. The "honor" of a military career would lead to disproportionately higher losses for the upper classes for all belligerents. Germany's top general, Erich Ludendorff would lose two sons, as would future British Prime Minister Andrew Bonar Law. British Prime Minister at the start of the war, Herbert Asquith, lost one. While about 12% of British troops would die in the war, 31% of Oxford's 1913 graduating class would die. This should help abolish the popular naive myth that politicians are quick to bring about wars while wanting to avoid personal loses in them. 
 
@@ -49,24 +42,13 @@ And in another occasion:
 >It is a fateful error on the part of our most valuable contemporaries to believe that economics can be left to specialists in the same way in which various fields of technology can be safely left to those who have chosen to make any one of them their vocation. The issues of society's economic organization are every citizen's business. To master them to the best of one's ability is the duty of [everyone."](https://mises.org/library/mises-reviews-rothbards-man-economy-and-state)
 
 
-This is why I am running for office. Because spreading an understanding of economics is 'in our age, the primary civic duty' and running for office is a great way to place ourselves where people are looking for answers and leadership.
+This is why I am voting to make Jo Jorgensen the first female president of the United States of America. Because spreading an understanding of economics is 'in our age, the primary civic duty' and by supporting her free-market views we can help her become a beacon of economic education that can help millions overcome the economic fallacies that keep us mired in conflict and away from the prosperity all human beings everywhere in the world can enjoy. 
+
+About Jo:
+
+Jo was the vice-presidential pick of the great free-market educator Harry Browne in his 1996 presidential campaign. [from wikipedia] Jorgensen received a BS in Psychology at Baylor University in 1979 followed by a Master's in Business Administration from Southern Methodist University in 1980. She began her career at IBM working with computer systems, leaving there to become part owner and President of Digitech, Inc. She received a Ph.D. in Industrial and Organizational Psychology from Clemson University in 2002. Jorgensen is a Psychology Senior Lecturer at Clemson University.
 ## Economics 
 
-
-## Biological and Social Order
-
-"Enduring structures" like living things and society are self-perpetuating orders that are in continuous cycles of wealth production and consumption. Production involves the transformation or relocation of matter to create wealth, and consumption transforms/relocates wealth/matter in a way that sustains or expands living things/orders and their internal parts/orders. The Sun sends us photons/energy which the process of photosynthesis is able to store in chemical form. This energy is then used to power the cycles of production/consumption. If there is more production than consumption then the order is profitable and thus has additional wealth with which to sustain itself for longer periods and/or grow. For example, paramecium are single-celled life-forms that produce food/wealth by swimming around and swallowing small bacteria which they then consume by digesting and transforming them into the various nutrients/wealth needed to maintain and expand the paramecium's internal order and thus life. A more complex multi-cellular animal like a person, is simply a collection of cells (which are themselves orders) which must be productive as a whole in order to produce and then consume the necessary wealth needed to nourish itself and the sub-orders/organs/cells/organelles it is composed of. Today we not only have biological order, we have social order, Spencer's "Social Organism", which is rapidly growing and increasing its 'rate of production', in other words, the rate at which it transforms the earth's matter into human usable wealth/order/life/biomass. Every year, increasingly automated building-sized machinery in the mining industries scrape/mine less than 10 cubic miles of matter from the earth's massive volume of 260 billion cubic miles. This matter is 'collaboratively transformed' or relocated by billions of people as trillions of dollars worth of wealth in terms of cars/computers/buildings/products/etc. are produced thus increasing the word's economic pie of wealth and social order. These continuous cycles of production and consumption require precise knowledge/information. By focusing on how information arises, spreads, and guides these cycles of production and consumption which lead to order/life/society we can have a simple yet profound understanding of how the entire world works.
-
-
-## Creation and Spread of Information via Biological Evolution
-
-"Processes of selective evolution" can be said to have created two mechanisms for creating two types of orders/"enduring structures", biological and social. The biological order is created via the well-known mechanism of 'biological evolution' with genes being like the sentences which store the information necessary to create/coordinate life/order. Mutations cause new genes and thus new information to arise which leads to a different life-form which is then 'naturally selected' as it inadvertently competes with others, with the winner reproducing more and thus passing on more copies of the better-adapted/"fitter" genes/information/design to later generations.
-
-
-## More complexity requires more information
-
-
-The more complex a thing is, the more information is needed to create it and keep it in order. Tiny E. coli bacteria have about 4,000 genes and are relatively simple in structure and function. On the other hand, each human cell has about 25,000 genes thus containing far more information allowing each cell to specialize and take part in a vast "division of labor" by transforming itself into a heart/lung/nerve/etc. cell as a young fetus develops inside the womb. About 500 million years ago, life-forms with brains began to emerge which allowed information to be stored outside of genes. Eventually life-forms evolved that used their brains to be increasingly "social" and cooperate with others to reach even higher levels of relative productivity/fitness/competitiveness which leads us to ourselves, anatomically-modern man (about 50,000 years ago), whose ancestors had spent over 2 million years living in small nomadic tribes of about 15 to 150 people where everyone more or less knew how to do the same things so information was inefficiently repeated across the social order. Just like few genes/information leads to simple bacteria, few brains lead to a simple and relatively unproductive social order. Tribal man had an information storage/sharing problem. Then something wonderful happened, something as momentous in the history of life as the emergence of biological evolution. The so-called 'market process' and its various components like trade, money, economic competition, and very recently "interest rate coordination" began to emerge, thus giving birth to Spencer's "Social Organism".
 
 ### Production and Consumption
 
@@ -131,7 +113,7 @@ As millions of Italians, Britons, Germans and others from all over the world cam
 
 ### Regulatory Paralysis
 
-With our focus on how information arises and coordinates life/order, we can see that a government regulation is essentially a "way" of doing things, it is information. But unlike information that arises in the private/competitive sector and is constantly being replaced by superior information due to economic competition, a government regulation is information that arises out of a few brains and is then forced upon the entire social order via the law and can only be changed via a painfully slow monopolistic/bureaucratic apparatus made up of economically ignorant politicians, lawyers, lobbyists and special interest groups who always lack the necessary local time-and-place-knowledge and incentives to discover what is the best way to do something. The more the government regulates, the more it paralyzes competitive knowledge discovery. As government regulations have increased in the health care sector, turning it into a sort of island of paralyzed top-down competition-less/socialist central planning, so have costs. These increased costs have led the sector to grow from consuming just 1.6% of the American economic pie in 1960 to 4.2% in 1980 to a whopping 16% in 2006 and about 18% by 2017. The image below helps explain the regulatory paralysis/bureaucratization of the entire medical sector which is responsible for the skyrocketing costs.
+With our focus on how information arises and coordinates life/order, we can see that a government regulation is essentially a "way" of doing things, it is information. But unlike information that arises in the private/competitive sector and is constantly being replaced by superior information due to economic competition, a government regulation is information that arises out of a few brains and is then forced upon the entire social order via the law and can only be changed via a painfully slow monopolistic/bureaucratic apparatus made up of economically ignorant politicians, lawyers, lobbyists and special interest groups who always lack the necessary local time-and-place-knowledge and incentives to discover what is the best way to do something. The more the government regulates, the more it paralyzes competitive knowledge discovery. As government regulations have increased in the health care sector, turning it into a sort of island of paralyzed top-down competition-less/socialist central planning, so have costs. These increased costs have led the sector to grow from consuming just 5% of the American economic pie in 1960 to a whopping 16% in 2006 and about 20% by 2020. The image below helps explain the regulatory paralysis/bureaucratization of the entire medical sector which is responsible for the skyrocketing costs.
 
 <img src="../images/doctors.png" alt="Doctors"
 	title="Doctors" width="550" height="400" />
@@ -157,13 +139,6 @@ Governmental/'public sector' orders, being COERCIVE MONOPOLIES which get their l
 <img src="../images/koreas.png" alt="Koreas"
 	title="Koreas" width="500" height="350" />
 
-In his essay ["Over-Legislation" Herbert Spencer](https://www.econlib.org/book-chapters/chapter-essay-over-legislation/) beautifully comments on the differences between governmental(law-made) orders and private/competitive ones:
-
->How invariably officialism becomes corrupt every one knows. Exposed to no such antiseptic as free competition — not dependent for existence, as private unendowed organizations are, upon the maintenance of a vigorous vitality; all law-made agencies fall into an inert, over-fed state, from which to disease is a short step. Salaries flow in irrespective of the activity with which duty is performed; continue after duty wholly ceases; becomes rich prizes for the idle well born; and prompt to perjury, to bribery, to simony. ... Officialism is habitually slow. When non-governmental agencies are dilatory, the public has its remedy: it ceases to employ them, and soon finds quicker ones. Under this discipline all private bodies are taught promptness. But for delays in State-departments there is no such easy cure. ...
-
->Consider first how immediately every private enterprise is dependent upon the need for it; and how impossible it is for it to continue if there be no need. Daily are new trades and new companies established. If they subserve some existing public want, they take root and grow. If they do not, they die of inanition. It needs no act of Parliament, to put them down. As with all natural organizations, if there is no function to them, no nutrient comes to them, and they dwindle away. Moreover, not only do the new agencies disappear if they are superfluous, but the old ones cease to be when they have done their work. Unlike law-made instrumentalities…these private instrumentalities dissolve when they become needless. ...
-
->Again, officialism is stupid. Under the natural course of things each citizen tends towards his fittest function. Those who are competent to the kind of work they undertake, succeed, and, in the average of cases, are advanced in proportion to their efficiency; while the incompetent, society soon finds out, ceases to employ, forces to try something easier, and eventually turns to use. But it is quite otherwise in State-organizations. Here, as everyone knows, birth, age, back-stairs intrigue, and sycophancy, determine the selections, rather than merit. The “fool of the family” readily finds a place in the Church, if “the family” have good connections. A youth, too ill-educated for any active profession, does very well for an officer in the Army. Gray hair or a title, is a far better guarantee of naval promotion than genius is. Nay, indeed, the man of capacity often finds that, in government offices, superiority is a hindrance — that his chiefs hate to be pestered with his proposed improvements, and are offended by his implied criticism. Not only, therefore, is legislative machinery complex, but it is made of inferior materials.
 
 
 ### Savings, Interest Rates, Business Cycles, and Recuperating Coronavirus Job Losses.
@@ -261,9 +236,6 @@ The intellectual fallacies which shape the environmentalist movement are in some
 
 The overpopulation myth is one the economically ignorant apes are inevitably falling for. The higher the population, the smarter and more productive the social organism becomes, which makes it easier to both understand and shape/adapt the environment/planet as the need might arise. However, as already mentioned, this "social learning" requires privatization to allow the billions of brains to discover and properly act and morph itself in a profitable way, again, a manner that coordinates the actions of billions of people in a way that is environmentally harmonious and keeps growing/nourishing/improving the social order, something the usual "central plans" of politicians and international environmental organizations have no familiarity with. 
 
-Unfortunately to our "experts" and future "central planners" mankind is not an incredible super-computer/organism, it is some mob of slightly smarter apes to be guided/coerced by the well-intentioned yet economically ignorant "experts" and "central planners" like Bill Gates.  
-
-
 Let’s read what a few [leading environmentalists have said](https://www.lewrockwell.com/2008/10/eric-englund/environmentalism-is-racism/):
 
 Jacques-Yves Cousteau, environmentalist and documentary maker: "It’s terrible to have to say this. World population must be stabilized, and to do that we must eliminate 350,000 people per day. This is so horrible to contemplate that we shouldn’t even say it. But the general situation in which we are involved is lamentable."
@@ -293,13 +265,13 @@ Paul Watson, a founder of Greenpeace: "I got the impression that instead of goin
 Bill Gates "The world today has 6.8 billion people. That's headed up to about nine billion...we could lower that by perhaps [ten or 15 percent."](https://youtu.be/c4Aps2NPe54?t=1047)
 
 
-Not a single one of these “experts” has the slightest clue of what the market process is and how it works, which means that they don’t really understand natural selection(although I’m sure all of them think they are experts at it!). Economic education can easily make them fall in love with the marvels of the market process and thus fix their errors. 
+Not a single one of these “experts” has the slightest clue of what the market process is and how it works. Economic education can easily make them fall in love with the marvels of the market process and thus fix their errors. 
 
 
 
 ## We must join Mises and go over the parapet in his "intellectual battle" against the economic ignorance that threatens civilization.
 
-If we are to quickly save mankind and reach the prosperity we are truly capable of, those of us who've had the miraculous fortune of stumbling upon Mises/Hayek/Hazlitt/Rothbard/etc., in other words, the so-called Austrian Economists'  wisdom must succeed at spreading it to fellow slightly smarter apes. We must find/join/persuade people who are thoroughly convinced that such quick prosperity can be achieved and thus become beacons of hope, excitement and viral economic education. We must join Mises and go over the parapet in his "intellectual battle" against the economic ignorance that threatens civilization.
+If we are to quickly save mankind and reach the prosperity we are truly capable of, those of us who've had the miraculous fortune of stumbling upon Mises/Hayek/Hazlitt/Rothbard/etc., in other words, the so-called Austrian Economists'  wisdom must succeed at spreading it to fellow citizens. We must find/join/persuade people who are thoroughly convinced that such quick prosperity can be achieved and thus become beacons of hope, excitement and viral economic education. Jo Jorgensen is a wonderful beacon of the principles and education we need. We must join Mises and go over the parapet in his "intellectual battle" against the economic ignorance that threatens civilization.
 
 Mises: 
 

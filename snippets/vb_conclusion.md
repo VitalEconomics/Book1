@@ -1,6 +1,6 @@
 ## We must join Mises and go over the parapet in his "intellectual battle" against the economic ignorance that threatens civilization.
 
-If we are to quickly save mankind and reach the prosperity we are truly capable of, those of us who've had the miraculous fortune of stumbling upon Mises/Hayek/Hazlitt/Rothbard/etc., in other words, the so-called Austrian Economists'  wisdom must succeed at spreading it to fellow slightly smarter apes. We must find/join/persuade people who are thoroughly convinced that such quick prosperity can be achieved and thus become beacons of hope, excitement and viral economic education. We must join Mises and go over the parapet in his "intellectual battle" against the economic ignorance that threatens civilization.
+If we are to quickly save mankind and reach the prosperity we are truly capable of, those of us who've had the miraculous fortune of stumbling upon Mises/Hayek/Hazlitt/Rothbard/etc., in other words, the so-called Austrian Economists'  wisdom must succeed at spreading it to fellow citizens. We must find/join/persuade people who are thoroughly convinced that such quick prosperity can be achieved and thus become beacons of hope, excitement and viral economic education. Jo Jorgensen is a wonderful beacon of the principles and education we need. We must join Mises and go over the parapet in his "intellectual battle" against the economic ignorance that threatens civilization.
 
 Mises: 
 

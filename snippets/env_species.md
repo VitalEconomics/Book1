@@ -12,9 +12,6 @@ The intellectual fallacies which shape the environmentalist movement are in some
 
 The overpopulation myth is one the economically ignorant apes are inevitably falling for. The higher the population, the smarter and more productive the social organism becomes, which makes it easier to both understand and shape/adapt the environment/planet as the need might arise. However, as already mentioned, this "social learning" requires privatization to allow the billions of brains to discover and properly act and morph itself in a profitable way, again, a manner that coordinates the actions of billions of people in a way that is environmentally harmonious and keeps growing/nourishing/improving the social order, something the usual "central plans" of politicians and international environmental organizations have no familiarity with. 
 
-Unfortunately to our "experts" and future "central planners" mankind is not an incredible super-computer/organism, it is some mob of slightly smarter apes to be guided/coerced by the well-intentioned yet economically ignorant "experts" and "central planners" like Bill Gates.  
-
-
 Let’s read what a few [leading environmentalists have said](https://www.lewrockwell.com/2008/10/eric-englund/environmentalism-is-racism/):
 
 Jacques-Yves Cousteau, environmentalist and documentary maker: "It’s terrible to have to say this. World population must be stabilized, and to do that we must eliminate 350,000 people per day. This is so horrible to contemplate that we shouldn’t even say it. But the general situation in which we are involved is lamentable."
@@ -44,5 +41,5 @@ Paul Watson, a founder of Greenpeace: "I got the impression that instead of goin
 Bill Gates "The world today has 6.8 billion people. That's headed up to about nine billion...we could lower that by perhaps [ten or 15 percent."](https://youtu.be/c4Aps2NPe54?t=1047)
 
 
-Not a single one of these “experts” has the slightest clue of what the market process is and how it works, which means that they don’t really understand natural selection(although I’m sure all of them think they are experts at it!). Economic education can easily make them fall in love with the marvels of the market process and thus fix their errors. 
+Not a single one of these “experts” has the slightest clue of what the market process is and how it works. Economic education can easily make them fall in love with the marvels of the market process and thus fix their errors. 
 
