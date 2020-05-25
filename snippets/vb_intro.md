@@ -1,4 +1,5 @@
-### Introduction: Lessons from WWI and Why I'm Voting for Jo Jorgensen
+### The Importance of Understanding Economics
+
 
 In August 10, 1915, British physicist Henry Mosely, who would have probably won the Nobel Prize that year, died in perhaps the most disastrous error mankind has thus far made, The First World War (1914–18). Bright and pious German/French/British/Russian… students, fathers, engineers, "great minds" and "experts", who even shared a common European Christian faith, reverted to their tribal ape-like nature, and for God, honor, flag and country, slaughtered each other leading to about 18 million deaths. At 7:30 am July 1st, 1916 the 'Battle of the Somme' began. On this single day, just the British alone, had about 20,000 fatalities and 35,000 wounded. On that day a British soldier was either killed or wounded on average every second. The "honor" of a military career would lead to disproportionately higher losses for the upper classes for all belligerents. Germany's top general, Erich Ludendorff would lose two sons, as would future British Prime Minister Andrew Bonar Law. British Prime Minister at the start of the war, Herbert Asquith, lost one. While about 12% of British troops would die in the war, 31% of Oxford's 1913 graduating class would die. This should help abolish the popular naive myth that politicians are quick to bring about wars while wanting to avoid personal loses in them. 
 
@@ -20,9 +21,3 @@ And in another occasion:
 
 >It is a fateful error on the part of our most valuable contemporaries to believe that economics can be left to specialists in the same way in which various fields of technology can be safely left to those who have chosen to make any one of them their vocation. The issues of society's economic organization are every citizen's business. To master them to the best of one's ability is the duty of [everyone."](https://mises.org/library/mises-reviews-rothbards-man-economy-and-state)
 
-
-This is why I am voting to make Jo Jorgensen the first female president of the United States of America. Because spreading an understanding of economics is 'in our age, the primary civic duty' and by supporting her free-market views we can help her become a beacon of economic education that can help millions overcome the economic fallacies that keep us mired in conflict and away from the prosperity all human beings everywhere in the world can enjoy. 
-
-About Jo:
-
-Jo was the vice-presidential pick of the great free-market educator Harry Browne in his 1996 presidential campaign. [from wikipedia](https://en.wikipedia.org/wiki/Jo_Jorgensen) Jorgensen received a BS in Psychology at Baylor University in 1979 followed by a Master's in Business Administration from Southern Methodist University in 1980. She began her career at IBM working with computer systems, leaving there to become part owner and President of Digitech, Inc. She received a Ph.D. in Industrial and Organizational Psychology from Clemson University in 2002. Jorgensen is a Psychology Senior Lecturer at Clemson University.

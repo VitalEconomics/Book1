@@ -1,9 +1,7 @@
 ### Preface 
 
+My beloved friend Harry Browne had a passion and great skill for helping Americans understand and appreciate the monumental importance that economic freedom plays in our prosperity and very existence. With the help of some supporters I am very happy to publish this small book that can help combat the economic fallacies that are the root cause of our problems. 
 
-This book is NOT associated with the official Jo Jorgensen campaign. It is just a book put together by supporters and inadvertently by anyone who contributes to the Open Source project whose writings are published collectively as authored by Freemarketeers.
-
-Anyone can contribute to it by going to its github repository at https://github.com/VitalEconomics/Book1 and gets updated frequently.
 
 This work is licensed under a Creative Commons Attribution 4.0 International License
 https://creativecommons.org/licenses/by/4.0/
