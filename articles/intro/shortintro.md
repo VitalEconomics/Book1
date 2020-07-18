@@ -1,0 +1,21 @@
+
+My name is Jorge Besada and I am running for Congress in Washington State' 9th District
+
+I am computer guy, a contractor at Microsoft.
+
+I was born in Cuba, a once prosperous country destroyed by economic fallacies which led many to adopt Socialism, central planning by "experts"  and thus inadvertently with the best of intentions bring oppression and economic chaos  upon themselves.The great free-market economics Ludwig von Mises felt it was 'the primary civic duty' to spread an understanding of economics, of the so-called free-market, of real Capitalism so I would like to begin this introductory campaign video by quoting the great Mises which will nicely capture the essense of much of my campaing. 
+
+
+"Economics must not be relegated to classrooms and statistical offices and must not be left to esoteric circles. It is the philosophy of human life and action and concerns everybody and everything. It is the pith of civilization and of man's human existence…All present-day political issues concern problems commonly called economic. All arguments advanced in contemporary discussion of social and public affairs deal with fundamental matters of…economics. Everybody's mind is preoccupied with economic doctrines…Everybody thinks of economics whether he is aware of it or not. In joining a political party and in casting his ballot, the citizen implicitly takes a stand upon essential economic theories…As conditions are today, nothing can be more important to every intelligent man than economics. His own fate and that of his progeny is at stake…all reasonable men are called upon to familiarize themselves with the teachings of economics. This is, in our age, the primary civic duty....Economics deals with society's fundamental problems; it concerns everyone and belongs to all. It is the main and proper study of every citizen."
+
+I would also like to add that I am very much an evolutionary thinker. Here I am with perhaps today's most famous biologist Richard Dawkins. All human beings are essentially tribalistic slightly smarter apes, as little as 10,000 years ago most of our ancestors were running around semi-naked, killing, raping, and often times even cannibalizing each other. This easily helps us understand why we so often segregate ourselves along religious or potical lines and slaughter each other for reasons a few years later nobody even remembers like WWI. I see mankind as divided into two sets of slightly smarter apes,
+
+
+
+ the civilized slightly smarter apes who understand how civilization works, in other words, people who understand how private proeprty and the emergent freedom of the individual to live his life as he pleases as long as he does not violate others' priovate property, as opposed to leading to chaos or "social injustices" as many fear, is the key to socioeconomic prosperity, and the uncivilized and thus extremely dangerous slightly smarter apes, who believe that so much individual freedom leads to chaos and "social injustice" and that everyone, regardless of whether they have harmed anyone or their property, must be coerced via taxes or regulations to go along with the monopolistic central plans and public sector bureucracies of the well-meaning "experts" in order to imprive or sustain society.
+
+
+
+The following 20 or so minutes discuss vital economic concepts that every informed citizen should understand, things like how the tradition of private property leads to economic competition which transforms the planet into a super-computer that reorders mankind in increasingly prosperous ways, how the government additionally taxes workers by simply creating money, the vital differences between the free competitive and efficient private sector and the coercive ,monopolistic, and inneficient public sector, we discuss the damage done by government regulations which explains why healthcare is increasingly costly while IT related products and services like smartphones get beater and cheaper all the time. We also discuss the benefits of immigration, how war is the worst thing for the economy and how utterly misguided people like 2008 Nobel Laureate in economics Paul Krugman and much of the mainstream is. These clips are parts of a nearly 3 hour long presentation that explains much more. Please visit votebesada.com to learn more about my campaign.
+
+
