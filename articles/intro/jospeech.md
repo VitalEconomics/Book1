@@ -33,7 +33,9 @@ In the regulated/paralyzed healthcare sector what a person must learn in order t
 
 
 
-hazlitt
+hazlitt  birthday
+
+November 28, 1964
 
 We Haven't Been Good Enough
 
